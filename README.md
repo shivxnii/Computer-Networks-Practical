@@ -1,2 +1,2 @@
 # Computer-Networks-Practical
-Some implemented modules in Cisco Packet Tracker.
+Implementation of modules in Cisco Packet Tracker for Computer Network Coursework for the academic session 2025-26. 
